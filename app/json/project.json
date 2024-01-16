@@ -1,0 +1,58 @@
+{
+    "project" : [
+        {
+            "num" : 1,
+            "name" : "PETSALON",
+            "date" : "2023-11-29 ~ 2024-01-15 ",
+            "lang" : "NEXT, SCSS, MongoDB",
+            "img" : "/imgs/petsalon.png",
+            "github" : "https://github.com/yonghoon1013/petsalon2.git",
+            "link" : "https://petsalon2.vercel.app/"
+        },
+        {
+            "num" : 2,
+            "name" : "GROCERY",
+            "date" : "2023-10-05 ~ 2023-10-23",
+            "lang" : "NEXT, SCSS, MySql",
+            "img" : "/imgs/grocery.jpg",
+            "github" : "https://github.com/yonghoon1013/grocery",
+            "link" : "https://grocery-phi.vercel.app/"
+        },
+        {
+            "num" : 3,
+            "name" : "CAMP",
+            "date" : "2023-09-16 ~ 2023-09-30",
+            "lang" : "REACT, SCSS",
+            "img" : "/imgs/camp.png",
+            "github" : "https://github.com/yonghoon1013/camp",
+            "link" : "https://camp-lemon.vercel.app/"
+        },
+        {
+            "num" : 4,
+            "name" : "MOVIE",
+            "date" : "2023-08-29 ~ 2023-09-08",
+            "lang" : "REACT, SCSS",
+            "img" : "/imgs/movie.gif",
+            "github" : "https://github.com/yonghoon1013/movie",
+            "link" : "https://movie-xi-rosy.vercel.app/"
+        },
+        {
+            "num" : 5,
+            "name" : "SEOUL BOTANIC PARK (RENEWAL)",
+            "date" : "2023-07-24 ~ 2023-08-25",
+            "lang" : "HTML, SCSS, JS, jQuery",
+            "img" : "/imgs/seoul.gif",
+            "github" : "https://github.com/yonghoon1013/seoul",
+            "link" : "https://yonghoon1013.github.io/seoul/"
+        },
+        {
+            "num" : 6,
+            "name" : "GYEONGGI-DO MUSEUM (CLONE)",
+            "date" : "2023-06-30 ~ 2023-07-31",
+            "lang" : "HTML, SCSS, JS, jQuery",
+            "img" : "/imgs/gyeonggi-do.gif",
+            "github" : "https://github.com/yonghoon1013/gyeonggiDoClone",
+            "link" : "https://yonghoon1013.github.io/gyeonggiDoClone/clone/"
+        }
+    ]
+}
