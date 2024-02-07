@@ -13,7 +13,7 @@
             "num" : 2,
             "name" : "CAMP",
             "date" : "2024-01-31 ~ 2024-02-07",
-            "lang" : "REACT, TypeScript, StyledComponent, SCSS",
+            "lang" : "REACT, TypeScript, StyledComponent",
             "img" : "/imgs/camp.png",
             "github" : "https://github.com/yonghoon1013/camp",
             "link" : "https://camp-lemon.vercel.app/"
