@@ -11,21 +11,21 @@
         },
         {
             "num" : 2,
+            "name" : "CAMP",
+            "date" : "2024-01-31 ~ 2024-02-07",
+            "lang" : "REACT, TypeScript, StyledComponent, SCSS",
+            "img" : "/imgs/camp.png",
+            "github" : "https://github.com/yonghoon1013/camp",
+            "link" : "https://camp-lemon.vercel.app/"
+        },
+        {
+            "num" : 3,
             "name" : "GROCERY",
             "date" : "2023-10-05 ~ 2023-10-23",
             "lang" : "NEXT, SCSS, MySql",
             "img" : "/imgs/grocery.jpg",
             "github" : "https://github.com/yonghoon1013/grocery",
             "link" : "https://to-grocery.vercel.app/"
-        },
-        {
-            "num" : 3,
-            "name" : "CAMP",
-            "date" : "2023-09-16 ~ 2023-09-30",
-            "lang" : "REACT, SCSS",
-            "img" : "/imgs/camp.png",
-            "github" : "https://github.com/yonghoon1013/camp",
-            "link" : "https://camp-lemon.vercel.app/"
         },
         {
             "num" : 4,
