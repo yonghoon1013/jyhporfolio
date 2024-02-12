@@ -23,6 +23,11 @@
                 "comment": "JavaScript의 ES6문법을 충분히 이해하고 활용하여 코드를 작성 할 수 있습니다."
             },
             {
+                "name": "TS",
+                "img": "/imgs/ts.png",
+                "comment": "JavaScript의 Type을 추가하여 더 퀄리티 있는 코드를 작성 할 수 있습니다."
+            },
+            {
                 "name": "jQuery",
                 "img": "/imgs/jquery.png",
                 "comment": "jQuery를 활용하여 다양한 이벤트를 간편하게 처리할 수 있습니다."
