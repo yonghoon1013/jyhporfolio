@@ -2,6 +2,15 @@
     "project" : [
         {
             "num" : 1,
+            "name" : "TODO",
+            "date" : "2024-03-08 ~ 2024-03-10 ",
+            "lang" : "REACT, TypeScript, Tailwind CSS, Zustand",
+            "img" : "/imgs/todo.png",
+            "github" : "https://github.com/yonghoon1013/todo",
+            "link" : "https://todo-iota-murex.vercel.app/"
+        },
+        {
+            "num" : 2,
             "name" : "PETSALON",
             "date" : "2023-11-29 ~ 2024-01-15 ",
             "lang" : "NEXT, SCSS, MongoDB",
@@ -10,7 +19,7 @@
             "link" : "https://petsalon2.vercel.app/"
         },
         {
-            "num" : 2,
+            "num" : 3,
             "name" : "CAMP",
             "date" : "2024-01-31 ~ 2024-02-29",
             "lang" : "REACT, TypeScript, StyledComponent, MongoDB",
@@ -19,7 +28,7 @@
             "link" : "https://camp-sable.vercel.app/"
         },
         {
-            "num" : 3,
+            "num" : 4,
             "name" : "GROCERY",
             "date" : "2023-10-05 ~ 2023-10-23",
             "lang" : "NEXT, SCSS, MySql",
@@ -28,7 +37,7 @@
             "link" : "https://to-grocery.vercel.app/"
         },
         {
-            "num" : 4,
+            "num" : 5,
             "name" : "MOVIE",
             "date" : "2023-08-29 ~ 2023-09-08",
             "lang" : "REACT, SCSS",
@@ -37,7 +46,7 @@
             "link" : "https://movie-xi-rosy.vercel.app/"
         },
         {
-            "num" : 5,
+            "num" : 6,
             "name" : "SEOUL BOTANIC PARK (RENEWAL)",
             "date" : "2023-07-24 ~ 2023-08-25",
             "lang" : "HTML, SCSS, JS, jQuery",
@@ -46,7 +55,7 @@
             "link" : "https://yonghoon1013.github.io/seoul/"
         },
         {
-            "num" : 6,
+            "num" : 7,
             "name" : "GYEONGGI-DO MUSEUM (CLONE)",
             "date" : "2023-06-30 ~ 2023-07-31",
             "lang" : "HTML, SCSS, JS, jQuery",
