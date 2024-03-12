@@ -340,7 +340,7 @@ body {
             display: flex;
             justify-content: space-between;
             font-size: 24px;
-            line-height: 1.8;
+            padding: 2% 0;
 
             >p {
               display: flex;
@@ -400,6 +400,7 @@ body {
 
           .lang {
             font-size: 16px;
+            line-height: 2;
           }
 
           &:nth-last-of-type(0){

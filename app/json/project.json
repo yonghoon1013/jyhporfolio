@@ -2,7 +2,8 @@
     "project" : [
         {
             "num" : 1,
-            "name" : "TODO",
+            "name" : "TODO (개인 프로젝트)",
+            "contrib" : "100%",
             "date" : "2024-03-08 ~ 2024-03-10 ",
             "lang" : "REACT, TypeScript, Tailwind CSS, Zustand",
             "img" : "/imgs/todo.png",
@@ -11,7 +12,8 @@
         },
         {
             "num" : 2,
-            "name" : "PETSALON",
+            "name" : "PETSALON (팀 프로젝트)",
+            "contrib" : "List, Detail, Favorite Page / 즐겨찾기, 댓글, 공유하기 ",
             "date" : "2023-11-29 ~ 2024-01-15 ",
             "lang" : "NEXT, SCSS, MongoDB",
             "img" : "/imgs/petsalon.png",
@@ -20,7 +22,8 @@
         },
         {
             "num" : 3,
-            "name" : "CAMP",
+            "name" : "CAMP (개인 프로젝트)",
+            "contrib" : "100%",
             "date" : "2024-01-31 ~ 2024-02-29",
             "lang" : "REACT, TypeScript, StyledComponent, MongoDB",
             "img" : "/imgs/camp.png",
@@ -29,7 +32,8 @@
         },
         {
             "num" : 4,
-            "name" : "GROCERY",
+            "name" : "GROCERY (팀 프로젝트)",
+            "contrib" : "Login, SignUp Page / 로그인, 회원가입",
             "date" : "2023-10-05 ~ 2023-10-23",
             "lang" : "NEXT, SCSS, MySql",
             "img" : "/imgs/grocery.jpg",
@@ -38,7 +42,8 @@
         },
         {
             "num" : 5,
-            "name" : "MOVIE",
+            "name" : "MOVIE (개인 프로젝트)",
+            "contrib" : "100%",
             "date" : "2023-08-29 ~ 2023-09-08",
             "lang" : "REACT, SCSS",
             "img" : "/imgs/movie.gif",
@@ -47,7 +52,8 @@
         },
         {
             "num" : 6,
-            "name" : "SEOUL BOTANIC PARK (RENEWAL)",
+            "name" : "SEOUL BOTANIC PARK (RENEWAL / 팀 프로젝트)",
+            "contrib" : "Main, Program Page / 날씨정보, 예약하기",
             "date" : "2023-07-24 ~ 2023-08-25",
             "lang" : "HTML, SCSS, JS, jQuery",
             "img" : "/imgs/seoul.gif",
@@ -56,7 +62,8 @@
         },
         {
             "num" : 7,
-            "name" : "GYEONGGI-DO MUSEUM (CLONE)",
+            "name" : "GYEONGGI-DO MUSEUM (CLONE / 개인 프로젝트)",
+            "contrib" : "100%",
             "date" : "2023-06-30 ~ 2023-07-31",
             "lang" : "HTML, SCSS, JS, jQuery",
             "img" : "/imgs/gyeonggi-do.gif",

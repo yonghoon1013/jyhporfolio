@@ -84,8 +84,8 @@ function Work() {
                                             <a className='webLink' href={item.link} target="_blank"></a>
                                             <a className='gitLink' href={item.github} target="_blank"></a>
                                         </p>
-                                        {/* <img src='/imgs/internet.svg'></img> */}
                                     </div>
+                                    <p>기여도 : {item.contrib}</p>
                                     <p className='lang'>{item.lang}</p>
                                 </li>
                             ))
