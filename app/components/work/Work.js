@@ -71,7 +71,7 @@ function Work() {
             <div className='workCon'>
                 <div className='left' data-aos="fade-up" data-aos-duration="1000">
                     <div className='subTitleBox'>
-                        <p className='subTitle'>PROJCET</p>
+                        <p className='subTitle'>PROJECT</p>
                         <p className='num'>{projectData.project.length}</p>
                     </div>
                     <ul ref={ulRef}>
