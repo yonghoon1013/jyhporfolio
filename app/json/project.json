@@ -5,7 +5,7 @@
             "name" : "COOKSEA (개인 프로젝트)",
             "contrib" : "100%",
             "date" : "2024-04-17 ~ 제작중 ",
-            "lang" : "REACT, Tailwind CSS, Zustand",
+            "lang" : "REACT, Tailwind CSS, react-query, Zustand",
             "img" : "/imgs/cooksea.png",
             "github" : "https://github.com/yonghoon1013",
             "link" : "https://github.com/yonghoon1013"
