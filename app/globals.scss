@@ -1087,13 +1087,13 @@ body {
               font-size: 0.8rem;
             }
   
-            &:nth-last-of-type(1){
-              >.projectTitle{
-                >p{
-                  display: none;
-                }
-              }
-            }
+            // &:nth-last-of-type(1){
+            //   >.projectTitle{
+            //     >p{
+            //       display: none;
+            //     }
+            //   }
+            // }
           }
         }
       }

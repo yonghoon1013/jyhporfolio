@@ -77,7 +77,7 @@ function Work() {
                     <ul ref={ulRef}>
                         {
                             projectData.project.map((item, k) => (
-                                <li key={item.num} ref={(el) => (liRef.current[k] = el)}>
+                                <li key={item.id} ref={(el) => (liRef.current[k] = el)}>
                                     <p className='date'>{item.date}</p>
                                     <div className='projectTitle'>{item.name}
                                         <p>
