@@ -1,6 +1,16 @@
 {
     "project" : [
         {
+            "id" : "25065450540450",
+            "name" : "SEOUL BOTANIC PARK (RENEWAL / 팀 프로젝트)",
+            "contrib" : "Main, Program Page / 날씨정보, 예약하기",
+            "date" : "2023-07-24 ~ 2023-08-25",
+            "lang" : "HTML, SCSS, JS, jQuery",
+            "img" : "/imgs/seoul.gif",
+            "github" : "https://github.com/yonghoon1013/seoul",
+            "link" : "https://yonghoon1013.github.io/seoul/"
+        },
+        {
             "id" : "54451165165",
             "name" : "COOKSEA (개인 프로젝트)",
             "contrib" : "100%",
@@ -59,16 +69,6 @@
             "img" : "/imgs/movie.gif",
             "github" : "https://github.com/yonghoon1013/movie",
             "link" : "https://movie-xi-rosy.vercel.app/"
-        },
-        {
-            "id" : "25065450540450",
-            "name" : "SEOUL BOTANIC PARK (RENEWAL / 팀 프로젝트)",
-            "contrib" : "Main, Program Page / 날씨정보, 예약하기",
-            "date" : "2023-07-24 ~ 2023-08-25",
-            "lang" : "HTML, SCSS, JS, jQuery",
-            "img" : "/imgs/seoul.gif",
-            "github" : "https://github.com/yonghoon1013/seoul",
-            "link" : "https://yonghoon1013.github.io/seoul/"
         },
         {
             "id" : "0564650056560650560",
