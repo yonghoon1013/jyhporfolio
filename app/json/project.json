@@ -11,16 +11,6 @@
             "link" : "https://yonghoon1013.github.io/seoul/"
         },
         {
-            "id" : "54451165165",
-            "name" : "COOKSEA (개인 프로젝트)",
-            "contrib" : "100%",
-            "date" : "2024-04-17 ~ 2024-05-20",
-            "lang" : "REACT, React-query, Tailwind CSS, Zustand, MongoDB, AWS",
-            "img" : "/imgs/cooksea.png",
-            "github" : "https://github.com/yonghoon1013/cooksea",
-            "link" : "https://cooksea.vercel.app/"
-        },
-        {
             "id" : "6454161023065",
             "name" : "CAMP (개인 프로젝트)",
             "contrib" : "100%",
