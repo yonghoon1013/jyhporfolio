@@ -23,11 +23,6 @@
                 "comment": "JavaScript의 ES6문법을 충분히 이해하고 활용하여 코드를 작성 할 수 있습니다."
             },
             {
-                "name": "TS",
-                "img": "/imgs/ts.png",
-                "comment": "JavaScript의 Type을 추가하여 더 퀄리티 있는 코드를 작성 할 수 있습니다."
-            },
-            {
                 "name": "jQuery",
                 "img": "/imgs/jquery.png",
                 "comment": "jQuery를 활용하여 다양한 이벤트를 간편하게 처리할 수 있습니다."
@@ -36,11 +31,6 @@
                 "name": "REACT",
                 "img": "/imgs/react.png",
                 "comment": "React Hook과 컴포넌트, state를 이해하고 활용하여 효율적인 상태 관리를 구현할 수 있습니다."
-            },
-            {
-                "name": "REACT-QUERY",
-                "img": "/imgs/react-query.png",
-                "comment": "react-query를 이용해 데이터가져오기, 캐싱, 동기화 및 업데이트를 사용 할 수 있습니다."
             },
             {
                 "name": "ZUSTAND",
@@ -71,11 +61,6 @@
                 "name": "MongoDB",
                 "img": "/imgs/mongodb.png",
                 "comment": "MongoDB를 활용하여 다양한 데이터를 저장하고 관리해 본 경험이 있습니다."
-            },
-            {
-                "name": "AWS",
-                "img": "/imgs/aws.png",
-                "comment": "AWS EC2를이용해 백엔드파일을 배포해본 경험이 있습니다."
             }
         ]
     },
