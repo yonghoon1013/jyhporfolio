@@ -1,6 +1,16 @@
 {
     "project" : [
         {
+            "id" : "12312323112312111",
+            "name" : "TICKET (CLONE / 개인 프로젝트)",
+            "contrib" : "100%",
+            "date" : "2024-09-04 ~ 2024-09-09",
+            "lang" : "REACT, SCSS, JSON",
+            "img" : "/imgs/ticketlink.gif",
+            "github" : "https://github.com/yonghoon1013/ticketLinkClone",
+            "link" : "https://ticket-link-clone.vercel.app/"
+        },
+        {
             "id" : "25065450540450",
             "name" : "SEOUL BOTANIC PARK (RENEWAL / 팀 프로젝트)",
             "contrib" : "Main, Program Page / 날씨정보, 예약하기",
